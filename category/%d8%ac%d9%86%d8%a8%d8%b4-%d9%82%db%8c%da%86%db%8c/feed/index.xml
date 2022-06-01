@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>جنبش قیچی &#8211; نشر قیچی</title>
+	<atom:link href="./../../%D8%AC%D9%86%D8%A8%D8%B4-%D9%82%DB%8C%DA%86%DB%8C/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sat, 28 May 2022 17:12:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/05/logo-150x150.png</url>
+	<title>جنبش قیچی &#8211; نشر قیچی</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>شروح قیچی</title>
+		<link>./../../../%d8%ac%d9%86%d8%a8%d8%b4-%d9%82%db%8c%da%86%db%8c/%d8%b4%d8%b1%d9%88%d8%ad-%d9%82%db%8c%da%86%db%8c/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 28 May 2022 17:11:53 +0000</pubDate>
+				<category><![CDATA[جنبش قیچی]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=46</guid>
+
+					<description><![CDATA[شروح هم در شرایطی شرح و بسط می‌یابد.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>روش قیچی</title>
+		<link>./../../../%d8%ac%d9%86%d8%a8%d8%b4-%d9%82%db%8c%da%86%db%8c/%d8%b1%d9%88%d8%b4-%d9%82%db%8c%da%86%db%8c/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 28 May 2022 17:10:44 +0000</pubDate>
+				<category><![CDATA[جنبش قیچی]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=44</guid>
+
+					<description><![CDATA[روش به چند قسم است]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>جنبش قیچی و مسأله‌ی تألیف</title>
+		<link>./../../../%d8%ac%d9%86%d8%a8%d8%b4-%d9%82%db%8c%da%86%db%8c/%d8%ac%d9%86%d8%a8%d8%b4-%d9%82%db%8c%da%86%db%8c-%d9%88-%d9%85%d8%b3%d8%a3%d9%84%d9%87%db%8c-%d8%aa%d8%a3%d9%84%db%8c%d9%81/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 28 May 2022 16:56:04 +0000</pubDate>
+				<category><![CDATA[جنبش قیچی]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=34</guid>
+
+					<description><![CDATA[در فارسیِ معاصر، واژه‌ی تألیف در معنایی خاص رایج شده است: «اسمِ مفعولِ تألیف یعنی تألیف‌شده مثل اینکه گوئیم این کتاب تألیفِ فلان است یعنی او آن را تألیف کرده‌است». واژه‌ی «تألیف» امّا، که مصدر است و از زبان عربی، گستره‌ی معناییِ بزرگ‌تری دارد. در اینجا گزیده‌ای از این معانی را که با بحثِ حاضر [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
